@@ -7,10 +7,6 @@ import br.com.pamorim.jogobulldog.andgraph.AGScreenManager;
 import br.com.pamorim.jogobulldog.andgraph.AGSoundManager;
 import br.com.pamorim.jogobulldog.andgraph.AGSprite;
 
-/**
- * Created by Caetano on 10/06/2017.
- */
-
 public class PrimeiraCena extends AGScene {
     AGSprite logo = null;
     int codigoEfeito = 0;

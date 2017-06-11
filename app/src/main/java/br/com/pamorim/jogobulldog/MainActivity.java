@@ -1,6 +1,5 @@
 package br.com.pamorim.jogobulldog;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import br.com.pamorim.jogobulldog.andgraph.AGActivityGame;
 

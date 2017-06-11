@@ -1,14 +1,14 @@
 package br.com.pamorim.jogobulldog;
 
 
-import br.com.pamorim.jogobulldog.andgraph.AGGameManager;
+import andgraph.AGGameManager;
 
-import br.com.pamorim.jogobulldog.andgraph.AGInputManager;
-import br.com.pamorim.jogobulldog.andgraph.AGScene;
-import br.com.pamorim.jogobulldog.andgraph.AGScreenManager;
-import br.com.pamorim.jogobulldog.andgraph.AGSprite;
-import br.com.pamorim.jogobulldog.andgraph.AGTimeManager;
-import br.com.pamorim.jogobulldog.andgraph.AGTimer;
+import andgraph.AGInputManager;
+import andgraph.AGScene;
+import andgraph.AGScreenManager;
+import andgraph.AGSprite;
+import andgraph.AGTimeManager;
+import andgraph.AGTimer;
 
 /**
  * Created by Caetano on 10/06/2017.
